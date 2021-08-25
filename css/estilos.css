@@ -1,0 +1,33 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.formulario{
+	background-color: #cccccc;
+	padding-top: 15px;
+	border-radius: 7px;
+    border: 1px solid #666;
+}
+
+
+.formulario h3{
+	font-weight: 700 !important;
+}
+
+.descripcion{
+	font-size: 12px;
+}
+
+.nombreProducto{
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.titulo{
+	margin: 20px;
+}
+
+.texto1{
+	font-size: 10px;
+}
